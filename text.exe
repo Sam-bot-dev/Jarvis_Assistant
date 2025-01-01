@@ -1,0 +1,11 @@
+install all the lib mentioned below
+  plyer
+  pyttsx3
+  speech_recognition
+  pyjokes
+  datetime
+  webbrowser (inbuild lib check first for availability)
+  random(same as above)
+  datetime(same as above)
+  pyautogui (pip install pyautogui) (to automate web interactions)
+  
