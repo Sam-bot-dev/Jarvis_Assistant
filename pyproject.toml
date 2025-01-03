@@ -4,4 +4,10 @@ version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "plyer>=2.1.0",
+    "pyautogui>=0.9.54",
+    "pyjokes>=0.8.3",
+    "pyttsx3>=2.98",
+    "speechrecognition>=3.13.0",
+]
